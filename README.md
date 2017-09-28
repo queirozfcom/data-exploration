@@ -1,8 +1,6 @@
 insurance-data-exploration
 ==============================
 
-A short description of the project.
-
 Project Organization
 ------------
 
